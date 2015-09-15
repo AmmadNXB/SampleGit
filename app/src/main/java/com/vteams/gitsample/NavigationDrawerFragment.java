@@ -31,7 +31,7 @@ import android.widget.Toast;
 public class NavigationDrawerFragment extends Fragment {
 
     /**
-     * adfads
+     * adfadsasdfafdasdf
      * adsfadf
      * adfadsf
      * mmy fragment
