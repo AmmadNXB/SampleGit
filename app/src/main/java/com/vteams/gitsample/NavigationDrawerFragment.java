@@ -30,6 +30,7 @@ import android.widget.Toast;
 public class NavigationDrawerFragment extends Fragment {
 
     /**
+     * mmy fragment
      * Remember the position of the selected item.
      */
     private static final String STATE_SELECTED_POSITION = "selected_navigation_drawer_position";
