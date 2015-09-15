@@ -31,6 +31,7 @@ import android.widget.Toast;
 public class NavigationDrawerFragment extends Fragment {
 
     /**
+     * adfadsf
      * mmy fragment
      * Remember the position of the selected item.
      */
